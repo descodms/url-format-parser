@@ -1,0 +1,21 @@
+{
+  "name": "url-format-parser",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Andres Castro",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "url-parse": "^1.5.10"
+  }
+}
